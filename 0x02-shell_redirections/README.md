@@ -51,3 +51,4 @@ Hidden files should be listed
 One file name per line
 The listing should end with a new line
 You are not allowed to use basename, grep, egrep, fgrep or rgrep
+Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
