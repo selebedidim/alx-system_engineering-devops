@@ -35,3 +35,6 @@ Display lines containing the pattern “root” from the file /etc/passwd
 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 grep -v "bin" /etc/passwd
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+include capital letters as well
